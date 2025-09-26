@@ -1,4 +1,4 @@
 # class-demo
 This is my first git repository.
 <br>
-Author-Vaibhav Chauhan
+Author-Vaibhav Chauhan(Gangdhari)
